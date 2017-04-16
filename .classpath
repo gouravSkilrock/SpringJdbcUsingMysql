@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/Study material/Development/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SpringsJar"/>
+	<classpathentry kind="lib" path="F:/Study material/Development/commons-dbcp-1.4.jar/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/Study material/Development/commons-pool-1.5.4.jar/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
